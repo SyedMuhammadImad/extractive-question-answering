@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "title": "Extractive question answering experiments",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "question answering model standford.ipynb",
+      "sha256": "57dcd526dbd8508d8765094fb929324f0a613b4f2decde16a81cc1c9065c0f39",
+      "bytes": 14615
+    },
+    {
+      "path": "README.md",
+      "sha256": "d9bea97ff983e62b579e7002c4ebff0ecdcc1f6f0f4f65bc7f70ab4e845c06ce",
+      "bytes": 840
+    },
+    {
+      "path": "additional_sources/scaled QandA/scaled QandA.ipynb",
+      "sha256": "27e42462308e47ffc0d5a2891051cb5df60cab20bd6c52a24499259f4391d277",
+      "bytes": 7289
+    }
+  ]
+}
