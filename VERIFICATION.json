@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-07",
+  "project": "extractive-question-answering",
+  "completion_scope": "academic project or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "Exact-match, multiset F1, multi-reference and invalid-input unit tests",
+      "passed": true
+    },
+    {
+      "name": "Streamlit interface startup and blank input validation",
+      "passed": true
+    },
+    {
+      "name": "Actual pretrained model inference on 100 SQuAD development examples",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Pretrained answerable-question model, 100 development examples; no fine-tuning or unanswerable-question detection."
+  ]
+}
