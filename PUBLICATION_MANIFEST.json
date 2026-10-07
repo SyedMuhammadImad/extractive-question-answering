@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "Extractive question answering experiments",
   "completion_gate_passed": true,
   "files": [
@@ -25,8 +25,8 @@
     },
     {
       "path": "question answering model standford.ipynb",
-      "sha256": "ecf40f9762069f7e9c1df6b0806c4575ab3692f5b0450c619d0e41faebe5b7e4",
-      "bytes": 2494
+      "sha256": "fc72ebef4474d11acb3917751c55e057828d8c706a0e48febe7f9531b8ef2785",
+      "bytes": 2498
     },
     {
       "path": "README.md",
@@ -45,13 +45,13 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "023c8bda0684a008fa181de71185c5572428a757e96b6c866c5c83c7a6debf96",
-      "bytes": 698
+      "sha256": "5793129e2f6c644b46a8e86d6c941f28f9e50924a2ad900b0ad4e655d5c1a172",
+      "bytes": 702
     },
     {
       "path": "additional_sources/scaled QandA/scaled QandA.ipynb",
-      "sha256": "2c5fb9395a065b101109dc00b7dc8e1a8f7a9c1732b8b8ca2b761b6703dde333",
-      "bytes": 2500
+      "sha256": "c9367302403b74b13f0713d672ef2512135cec98e4a04d120f5171f1a9848b96",
+      "bytes": 2504
     }
   ]
 }
